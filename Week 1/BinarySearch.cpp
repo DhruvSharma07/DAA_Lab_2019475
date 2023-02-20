@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//added a comment
 
 int binarySearch(int arr[], int l, int r, int x)
 {
